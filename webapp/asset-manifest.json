@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.59ca4ebe.css",
+    "main.js": "/static/js/main.25ee25f4.js",
+    "static/media/23_hlf_transporter_85_boards_handschuhfach_0591.jpg": "/static/media/23_hlf_transporter_85_boards_handschuhfach_0591.27b8a5b5bd2e55f676cc.jpg",
+    "static/media/ebullitt-classic_2020_0073.jpg": "/static/media/ebullitt-classic_2020_0073.be3119446a707b248067.jpg",
+    "index.html": "/index.html",
+    "main.59ca4ebe.css.map": "/static/css/main.59ca4ebe.css.map",
+    "main.25ee25f4.js.map": "/static/js/main.25ee25f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ca4ebe.css",
+    "static/js/main.25ee25f4.js"
+  ]
+}
